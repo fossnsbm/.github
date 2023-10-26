@@ -11,8 +11,8 @@
        <a href="https://twitter.com/fossnsbm?lang=en" target="_blank">Twitter</a> |
        <a href="https://www.instagram.com/fossnsbm/?hl=en" target="_blank">Instagram</a> |
        <a href="https://www.facebook.com/foss.nsbm/" target="_blank">Facebook</a> |
-       <a href="https://www.facebook.com/foss.nsbm/" target="_blank">Youtube</a> |
-       <a href="https://instagram.com/wasath.theekshana" target="_blank">TikTok</a>
+       <a href="https://www.youtube.com/channel/UC_bx6hMjxj3hqqQhBw2LCLA" target="_blank">Youtube</a> |
+       <a href="https://www.tiktok.com/@fossnsbm" target="_blank">TikTok</a>
      </samp>
  </p>
 
