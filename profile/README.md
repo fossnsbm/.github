@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://github.com/fossnsbm/.github/assets/91784445/1c6a2389-91e8-4d53-926e-ae0a12fc14a8" align="center" style="width: 100%" />
+  <img src="https://github.com/fossnsbm/.github/assets/91784445/83d35c93-23de-44cf-bedd-71a08c5317f3" align="center" style="width: 100%" />
 </div>  
 
-<br>
 <br>
 
 <p align="center">
